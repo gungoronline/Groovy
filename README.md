@@ -19,3 +19,16 @@ An Wordpress Plugin for Create Mobile Application with Restful API
         }
     ]
 }
+
+### content/api/post/categories.php
+{
+    "categories": [
+        {
+            "id": "1",
+            "parent": 0,
+            "ranking_id": 0,
+            "category_name": "Genel",
+            "category_link": "genel"
+        }
+    ]
+}
