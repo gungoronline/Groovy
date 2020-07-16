@@ -1,6 +1,14 @@
 # Groovy
 An Wordpress Plugin for Create Mobile Application with Restful API
 
+## How it works ?
+- No setup is required when you install this plugin. There is no page for the setting.
+- Within the Linker Mobile application, your website is added to the application and listed in the search results. Quickly share the contents of your web page with your visitors.
+- It is the best and free way to turn your Wordpress website into a mobile application.
+
+## For installation
+- Please visit https://github.com/gungoronline/Groovy/tree/master/Plugin-versions page and download any version and upload zip into plugins.
+
 ## Response examples
 ### content/api/post/images.php
 {"images":[{"image_name":"wp-content/uploads/2020/07/a.jpg","image_created_time":""},{"image_name":"wp-content/uploads/2020/07/b.jpg","image_created_time":""},{"image_name":"wp-content/uploads/2020/07/c.jpg","image_created_time":""}]}
