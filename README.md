@@ -1,10 +1,11 @@
 # Groovy
 An Wordpress Plugin for Create Mobile Application with Restful API
 
-## content/api/post/images.php
+## Response examples
+### content/api/post/images.php
 {"images":[{"image_name":"wp-content/uploads/2020/07/a.jpg","image_created_time":""},{"image_name":"wp-content/uploads/2020/07/b.jpg","image_created_time":""},{"image_name":"wp-content/uploads/2020/07/c.jpg","image_created_time":""}]}
 
-## content/api/post/blogs.php
+### content/api/post/blogs.php
 {
     "blogs": [
         {
