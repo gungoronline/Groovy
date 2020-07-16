@@ -32,3 +32,49 @@ An Wordpress Plugin for Create Mobile Application with Restful API
         }
     ]
 }
+
+### content/api/post/pages.php
+{
+    "pages": [
+        {
+            "id": "2",
+            "page_share_time": "2020-07-14 19:00:28",
+            "page_lastview": "2020-07-14 19:00:28",
+            "page_view_count": "11",
+            "page_url": "http:\/\/localhost\/wordpress\/?page_id=2",
+            "page_title": "\u00d6rnek sayfa"
+        }
+    ]
+}
+
+### content/api/post/todayOrganicSearch.php
+{
+    "todayOrganicSearch": [
+        {
+            "cnt": "1",
+            "visitor_refer_domain": "localhost"
+        }
+    ]
+}
+
+### content/api/post/permission.php
+{
+    "permission": [
+        {
+            "indexId": "1",
+            "codeName": "statistics"
+        },
+        {
+            "indexId": "2",
+            "codeName": "blogs"
+        },
+        {
+            "indexId": "3",
+            "codeName": "pages"
+        },
+        {
+            "indexId": "4",
+            "codeName": "microblogs"
+        }
+    ]
+}
