@@ -6,7 +6,7 @@ An Wordpress Plugin for Create Mobile Application with Restful API
 - Within the Linker Mobile application, your website is added to the application and listed in the search results. Quickly share the contents of your web page with your visitors.
 - It is the best and free way to turn your Wordpress website into a mobile application.
 
-## For installation
+## Installation
 - Please visit https://github.com/gungoronline/Groovy/tree/master/Plugin-versions page and download any version and upload zip into plugins.
 
 ## Response examples
