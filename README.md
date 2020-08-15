@@ -89,4 +89,5 @@ An Wordpress Plugin for Create Mobile Application with Restful API
 
 ## Version History
 ### 16.08.2020 (Version 1.0.1)
+- Mobile Application's get "404 Page Not Found" problem fixed.
 - Problem fixeds and Updates for Wordpress
