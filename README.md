@@ -95,4 +95,4 @@ An Wordpress Plugin for Create Mobile Application with Restful API
 - Show Wordpress Categories count & listing problem fixed.
 
 ## Special Thanks
-- Furkan Kalkan - Github @furkan9595 
+- Furkan Kalkan - Github [@furkan9595](https://github.com/furkan9595)
