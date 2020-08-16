@@ -91,3 +91,8 @@ An Wordpress Plugin for Create Mobile Application with Restful API
 ### 16.08.2020 (Version 1.0.1)
 - Mobile Application's get "404 Page Not Found" problem fixed.
 - Problem fixeds and Updates for Wordpress
+### 16.08.2020 (Version 1.0.2)
+- Show Wordpress Categories count & listing problem fixed.
+
+## Special Thanks
+- Furkan Kalkan - Github @furkan9595 
