@@ -100,3 +100,4 @@ An Wordpress Plugin for Create Mobile Application with Restful API
 - Furkan Kalkan - Github [@furkan9595](https://github.com/furkan9595)
 - Mert Toptaş - Github [@merttoptas](https://github.com/merttoptas)
 - [Levent Yurtseven](https://leventyurtseven.com)
+- Şerif Güngör - Github [@serifgungor](https://github.com/serifgungor)
