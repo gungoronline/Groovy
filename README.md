@@ -93,6 +93,8 @@ An Wordpress Plugin for Create Mobile Application with Restful API
 - Problem fixeds and Updates for Wordpress
 ### 16.08.2020 (Version 1.0.2)
 - Show Wordpress Categories count & listing problem fixed.
+### 20.08.2020 (Version 1.0.3)
+- Bug fixed.
 
 ## Special Thanks
 - Furkan Kalkan - Github [@furkan9595](https://github.com/furkan9595)
