@@ -9,6 +9,9 @@ An Wordpress Plugin for Create Mobile Application with Restful API
 ## Installation
 - Please visit https://github.com/gungoronline/Groovy/tree/master/Plugin-versions page and download any version and upload zip into plugins.
 
+## After to Installation
+- Please download Android app https://play.google.com/store/apps/details?id=com.serifgungor.linker and send mail to contact@serifgungor.com your website adress and 241x120px logo. You can see your website in this application after the website adress added.
+
 ## Response examples
 ### content/api/post/images.php
 {"images":[{"image_name":"wp-content/uploads/2020/07/a.jpg","image_created_time":""},{"image_name":"wp-content/uploads/2020/07/b.jpg","image_created_time":""},{"image_name":"wp-content/uploads/2020/07/c.jpg","image_created_time":""}]}
