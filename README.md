@@ -18,6 +18,7 @@ An Wordpress Plugin for Create Mobile Application with Restful API
 - Lists your categories and publish count
 - Lists your pages
 - Read your pages on webview
+- The blog of the day can be selected and you can get ahead in the SEO ranking. You can rise on Alexa.
 
 ## Benefits
 - You can show the ads on your website pages to more people.
