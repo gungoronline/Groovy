@@ -19,6 +19,10 @@ An Wordpress Plugin for Create Mobile Application with Restful API
 - Lists your pages
 - Read your pages on webview
 
+## Benefits
+- You can show the ads on your website pages to more people.
+- You can bring organic visitors to your site.
+
 ## Installation
 - Please visit https://github.com/gungoronline/Groovy/tree/master/Plugin-versions page and download latest version and upload zip into plugins.
 
