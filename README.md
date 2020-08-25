@@ -22,6 +22,9 @@ An Wordpress Plugin for Create Mobile Application with Restful API
 ## Benefits
 - You can show the ads on your website pages to more people.
 - You can bring organic visitors to your site.
+- You can ensure that the pages of your own website are found in instant search results.
+- You can enable your own pages to be found in word-based search results.
+- You can get into their top rankings.
 
 ## Installation
 - Please visit https://github.com/gungoronline/Groovy/tree/master/Plugin-versions page and download latest version and upload zip into plugins.
