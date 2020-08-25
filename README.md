@@ -26,6 +26,7 @@ An Wordpress Plugin for Create Mobile Application with Restful API
 - You can ensure that the pages of your own website are found in instant search results.
 - You can enable your own pages to be found in word-based search results.
 - You can get into their top rankings. (Most visit, Most search count etc.)
+- You can have thousands of people come to your web page with instant application notifications. (* This service is paid.)
 
 ## Installation
 - Please visit https://github.com/gungoronline/Groovy/tree/master/Plugin-versions page and download latest version and upload zip into plugins.
