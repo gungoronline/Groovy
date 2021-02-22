@@ -123,8 +123,3 @@ An Wordpress Plugin for Create Mobile Application with Restful API
 ### 20.08.2020 (Version 1.0.3)
 - Bug fixed.
 
-## Special Thanks
-- Furkan Kalkan - Github [@furkan9595](https://github.com/furkan9595)
-- Mert Toptaş - Github [@merttoptas](https://github.com/merttoptas)
-- Şerif Güngör - Github [@serifgungor](https://github.com/serifgungor)
-- [Levent Yurtseven](https://leventyurtseven.com)
